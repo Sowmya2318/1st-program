@@ -1,8 +1,6 @@
-# 1st-programinclude <stdio.h>
-
-int main() {
-    // Print "Hello,github!" to the console
-    printf("Hello, github!\n");
-    
-    return 0;
+# inclide <stdio.h>
+int main() 
+{
+printf("hello this is sowmya") ;
+return 0;
 }
